@@ -29,6 +29,7 @@ body {
   
   .slide.active {
     display: block;
+    
   }
   
   .controls button {
@@ -71,5 +72,6 @@ body {
   .dot.active {
     background: #fff;
   }
+
 
   
